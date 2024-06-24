@@ -5,13 +5,15 @@
 - мои учебные кейсы доступны в github.
 - в свободное время изучаю python.
 - работала в IT компании аккаунт-менеджером 5 лет.
+- эффективно работаю в команде, имею опыт в организации проектов и сотрудников.
 - рисую картины по номерам и слушаю металл.
 
-Мое [резюме](https://drive.google.com/file/d/1CMaV7Jy8yjeOLqf3LeTDPnCIMhbpRag2/view?usp=sharing).
+# Мое резюме
+[ссылка на резюме](https://drive.google.com/file/d/1CMaV7Jy8yjeOLqf3LeTDPnCIMhbpRag2/view?usp=sharing).
 
 
 # Что я использую в работе
-
+ 
 # Тестовая документация
 
 [SQL-задачи](https://github.com/Nancy2T/SQL)
