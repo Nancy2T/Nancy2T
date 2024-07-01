@@ -7,6 +7,8 @@
 
 # Тестовая документация
 
+[Тесторование веб-сайта КультВолос](https://github.com/Nancy2T/deep_mate/blob/main/README.md)
+
 [Тестирование API](https://github.com/Nancy2T/API/blob/main/README.md)
 
 [Тестирование веб-сайта "Stellar Burger"](https://github.com/Nancy2T/stellar_burger)
