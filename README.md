@@ -1,7 +1,7 @@
 
 # Привет! Меня зовут Настя и я тестировщик.
 
-# Мое резюме
+# Мое резюмеs
 [Cсылка на резюме](https://drive.google.com/file/d/1KBQA3SogY-MCDCe2Tg2MNAa2BRpqgFY5/view?usp=sharing).
 
 
