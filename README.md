@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-ffffff?style-for-the-badge&logo=Telegram)](https://t.me/Anastasia_244)
 
 ## Мое резюме:
-[Cсылка на резюме](https://drive.google.com/file/d/1KBQA3SogY-MCDCe2Tg2MNAa2BRpqgFY5/view?usp=sharing)
+[Cсылка на резюме](https://drive.google.com/file/d/1ubnx-mM9dLtSglzaQuKCa2smstE1nAtp/view?usp=drive_link)
 
 ## Применяю инструменты:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width="50"/>&nbsp;
