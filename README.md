@@ -5,9 +5,9 @@
 [Cсылка на резюме](https://drive.google.com/file/d/1KBQA3SogY-MCDCe2Tg2MNAa2BRpqgFY5/view?usp=sharing).
 
 
-# Тестовая документация
+# Тестовые артефакты
 
-[Тесторование веб-сайта КультВолос](https://github.com/Nancy2T/deep_mate/blob/main/README.md)
+[Тестирование веб-сайта КультВолос](https://github.com/Nancy2T/deep_mate/blob/main/README.md)
 
 [Тестирование API](https://github.com/Nancy2T/API/blob/main/README.md)
 
@@ -18,4 +18,6 @@
 [SQL-задачи](https://github.com/Nancy2T/SQL)
 
 [Автотесты](https://github.com/Nancy2T/auto_test_practikum)
+
+
 
