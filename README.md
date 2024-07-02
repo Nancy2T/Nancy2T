@@ -17,23 +17,7 @@
 [Cсылка на резюме](https://drive.google.com/file/d/1KBQA3SogY-MCDCe2Tg2MNAa2BRpqgFY5/view?usp=sharing).
 
 # Инструменты
-![TMS](https://img.shields.io/badge/TMS-c8a2c8?style-for-the-badge&logo=TMS)
-![Figma](https://img.shields.io/badge/Figma-c8a2c8?style-for-the-badge&logo=Figma)
-![YouTrack](https://img.shields.io/badge/YouTrack-c8a2c8?style-for-the-badge&logo=YouTrack)
-![Яндекс.Трекер](https://img.shields.io/badge/Яндекс.Трекер-c8a2c8?style-for-the-badge&logo=Яндекс.Трекер)
 
-
-![Postman](https://img.shields.io/badge/Postman-c8a2c8?style-for-the-badge&logo=Postman)
-![Swagger](https://img.shields.io/badge/Swagger-c8a2c8?style-for-the-badge&logo=Swagger)
-![postgresql](https://img.shields.io/badge/Postgresql-c8a2c8?style-for-the-badge&logo=postgresql)
-
-![Charles](https://img.shields.io/badge/Charles-c8a2c8?style-for-the-badge&logo=Charles)
-![DevTools](https://img.shields.io/badge/DevTools-c8a2c8?style-for-the-badge&logo=DevTools)
-![Android Studio](https://img.shields.io/badge/Android-Studio-c8a2c8?style-for-the-badge&logo=Android-Studio)
-![Git](https://img.shields.io/badge/Git-c8a2c8?style-for-the-badge&logo=Git)
-![Cygwin](https://img.shields.io/badge/Cygwin-c8a2c8?style-for-the-badge&logo=Cygwin)
-![Pycharm](https://img.shields.io/badge/Pycharm-c8a2c8?style-for-the-badge&logo=Pycharm)
- 
 
 # Тестовые артефакты
 
