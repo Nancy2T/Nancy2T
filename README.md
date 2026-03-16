@@ -25,14 +25,6 @@
 
 # Тестовые артефакты
 
-[Тестирование веб-сайта КультВолос](https://github.com/Nancy2T/deep_mate/blob/main/README.md)
-
-[Тестирование API Яндекс.Прилавка](https://github.com/Nancy2T/API/blob/main/README.md)
-
-[Тестирование веб-сайта Stellar Burger](https://github.com/Nancy2T/stellar_burger)
-
-[Тестирование мобильного приложения Яндекс.Метро](https://github.com/Nancy2T/metro/tree/main)
-
 [SQL-задачи](https://github.com/Nancy2T/SQL)
 
 [Автотесты](https://github.com/Nancy2T/auto_test_practikum)
